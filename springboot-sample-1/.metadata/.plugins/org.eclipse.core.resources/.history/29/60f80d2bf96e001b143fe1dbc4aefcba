@@ -1,0 +1,5 @@
+package com.rkawscertify.springbootsample1.controller;
+
+public class HelloWorldControllerIT {
+
+}

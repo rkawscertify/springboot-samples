@@ -1,0 +1,5 @@
+package com.rkawscertify.controller;
+
+public class HelloWorldController {
+
+}
